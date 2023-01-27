@@ -1603,15 +1603,3 @@ RSpec/Rails/HaveHttpStatus:
   SafeAutoCorrect: false
   VersionAdded: '2.12'
   Reference: https://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/Rails/HaveHttpStatus
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
