@@ -12,3 +12,5 @@ gem "rspec", "~> 3.0"
 gem 'rubocop', '~> 1.21'
 
 gem "activesupport", ">= 5.0"
+
+gem 'regexp_parser'
